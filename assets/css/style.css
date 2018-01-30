@@ -2,7 +2,7 @@ body{
 	background: url("../images/back.jpg");
 	background-size: 100%;
     background-repeat: no-repeat;
-    color: blue;
+    color: green;
 }
 * {
 	box-sizing: border-box;
@@ -12,13 +12,11 @@ img {
     width: 150px;
 }
 .btn {
-    /* button spacing */
     margin: 3px;
     background-color: black;
     border-color: green;
 }
 .gifDiv{
-    /* making the images go in one line rather than block & adding spacing between the images*/
     float: left;
     margin: 3px;
 }
@@ -37,11 +35,8 @@ img {
 #copyright{
 	font-size: 14px;
 }
-div#footer {
+#footer {
 	clear: both;
 	margin-top: 40px;
-	position: center;
-	bottom: 0;
-	left: 0;
-	text-align: center;
+	text-align: right;
 }

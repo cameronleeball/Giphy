@@ -1,6 +1,6 @@
 $( document ).ready(function() {
 
-var animals = ["African Grey", "Dalmatian", "Cats", "Octopus", "Mantis Shrimp", "Fish", "Sailfin Tang", "Goat","Chicken", "Horse", "Goby"];
+var animals = ["African Grey", "Dalmatian", "Cats", "Octopus", "Mantis Shrimp", "Fish", "Grouper", "Goat","Chicken", "Shark", "Goby"];
 
 function displayGifButtons(){
     $("#gifButtonsView").empty();
